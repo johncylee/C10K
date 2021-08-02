@@ -1,0 +1,6 @@
+[book]
+title = "C10K 研究"
+authors = ["John Lee <john.cylee@gmail.com>"]
+description = "研究 Dan Kegel 著名 c10k 頁面"
+src = "src"
+language = "zh-Hant-TW"
